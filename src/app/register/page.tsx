@@ -66,7 +66,7 @@ export default function RegisterPage() {
           <GraduationCap className="h-8 w-8 text-primary-foreground" />
         </div>
         <div>
-          <h1 className="text-3xl font-bold text-gray-800 dark:text-white">University Portal</h1>
+          <h1 className="text-3xl font-bold text-gray-800 dark:text-white">EduScheduler</h1>
           <p className="text-muted-foreground">Create your account</p>
         </div>
       </div>
@@ -188,7 +188,7 @@ export default function RegisterPage() {
       </Card>
 
       <footer className="mt-8 text-center text-sm text-gray-500">
-        <p>&copy; {new Date().getFullYear()} University Portal. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} EduScheduler. All rights reserved.</p>
       </footer>
     </main>
   );

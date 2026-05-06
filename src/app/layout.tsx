@@ -6,7 +6,7 @@ import { ThemeProvider } from '@/components/theme-provider';
 
 
 export const metadata: Metadata = {
-  title: 'University Portal',
+  title: 'EduScheduler',
   description: 'Smart Timetable Scheduler',
 };
 
